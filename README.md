@@ -1,4 +1,4 @@
-# gans-deformations-2
+# Deformation of images using Generative Adversarial Networks: a study to generate realistic novel images of the worm C. elegans
 Second part of the GANs project (see [here](https://github.com/Robbberto/gans-deformations) for the first part).
 
 The work of this repository was done by Roberto Ceraolo (me) and Roberto Minini for our semester project in collaboration with the Laboratory of the Physics of Biological Systems at EPFL.
